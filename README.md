@@ -209,7 +209,11 @@ button:active {
 
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 225558" src="https://github.com/user-attachments/assets/dd4909bb-2f50-4962-8f68-31828d4b4d47" />
 
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 225614" src="https://github.com/user-attachments/assets/59883dd6-faa2-49d7-aa27-5fb569fdef37" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 225624" src="https://github.com/user-attachments/assets/af050935-8501-45a2-a597-bfd9ef9814e1" />
 
 
 ## RESULT
